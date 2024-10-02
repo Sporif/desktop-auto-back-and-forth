@@ -16,4 +16,6 @@ then go to "KWin Scripts" settings and enable the "Desktop auto back-and-forth" 
 
 Go to "Shortcuts" settings, search for "AutoBackAndForth" (under KWin) and choose your shortcuts.
 
-Press the shortcut to switch to the virtual desktop, and press it again to switch to the previously used virtual desktop.
+## Usage
+
+Activate one of the shortcuts to switch to a different virtual desktop, and activate it again to switch to the previously used virtual desktop.
