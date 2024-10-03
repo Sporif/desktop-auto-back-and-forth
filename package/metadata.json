@@ -10,7 +10,7 @@
         "Description": "Adds desktop switching shortcuts that enable automatic back-and-forth when switching to the current workspace",
         "Icon": "preferences-system-windows-script-test",
         "Id": "desktop-auto-back-and-forth",
-        "License": "GPL",
+        "License": "GPL-2.0+",
         "Name": "Desktop auto back-and-forth"
     },
     "X-Plasma-API": "javascript"
